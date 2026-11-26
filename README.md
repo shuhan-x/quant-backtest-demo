@@ -15,11 +15,11 @@
 
 
 ## 分层回测净值曲线
-![分层回测](data/layered_nav.png)
+![分层回测](layered_nav.png)
 
 
 ## 多空对冲与交易成本影响
-![多空对冲](data/long_short_nav.png)
+![多空对冲](long_short_nav.png)
 
 
 ## 项目结构
